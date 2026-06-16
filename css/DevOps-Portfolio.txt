@@ -1,0 +1,67 @@
+DevOps-Portfolio/
+│
+├── index.html
+├── css/
+│     └── style.css
+│
+├── js/
+│     └── script.js
+│
+├── images/
+│
+├── README.md
+│
+└── Jenkinsfile
+
+GitHub Repo:
+https://github.com/durgasrii/devops-portfolio
+
+Portfolio URL:
+https://durga-devops-portfolio.netlify.app
+
+Netlify Project:
+https://app.netlify.com/projects/durga-devops-portfolio/overview
+
+Jenkins Username:
+DURGASRI
+
+Password:
+Admin@123
+
+ngrok Folder:
+C:\Tools\ngrok
+
+
+
+Commands:
+
+sc query Jenkins
+
+cd C:\Tools\ngrok
+ngrok http 8051
+
+
+
+Open Portfolio URL
+↓
+Sir asks for change
+↓
+Edit in VS Code
+↓
+git add .
+↓
+git commit -m "Demo Update"
+↓
+git push
+↓
+GitHub Webhook
+↓
+Jenkins Auto Trigger
+↓
+Pipeline Success
+↓
+Netlify Deploy
+↓
+Refresh Website
+↓
+Change Visible
